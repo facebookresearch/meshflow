@@ -12,7 +12,7 @@ trimesh==4.10.1
 tqdm==4.67.3
 
 # Optional: RMBG matting (MeshFlowPipeline(use_rmbg=True))
-transformers==4.57.3
+transformers==5.0.0rc3
 
 # evaluate.py
 point-cloud-utils==0.34.0

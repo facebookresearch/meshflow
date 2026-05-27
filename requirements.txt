@@ -18,5 +18,5 @@ transformers==4.57.3
 point-cloud-utils==0.34.0
 
 # gradio_app.py
-gradio==6.2.0
+gradio==6.7.0
 plotly==6.5.2

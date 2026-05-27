@@ -5,7 +5,7 @@ torch==2.7.1
 torchvision==0.22.1
 
 # Core inference
-diffusers==0.36.0
+diffusers==0.38.0
 einops==0.8.1
 omegaconf==2.3.0
 trimesh==4.10.1

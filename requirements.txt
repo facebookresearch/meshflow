@@ -1,0 +1,23 @@
+# PyTorch CUDA 12.8 wheels (change index-url for your CUDA/PyTorch build)
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+torch==2.8.0
+torchvision==0.22.1
+
+# Core inference
+diffusers==0.38.0
+einops==0.8.1
+omegaconf==2.3.0
+trimesh==4.10.1
+tqdm==4.67.3
+
+# Optional: RMBG matting (MeshFlowPipeline(use_rmbg=True))
+transformers==5.0.0rc3
+
+# evaluate.py
+point-cloud-utils==0.34.0
+
+# gradio_app.py
+gradio==6.6.0
+huggingface_hub>=0.26.0
+plotly==6.5.2

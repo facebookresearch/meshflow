@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# Editors / OS
+.vscode/
+.idea/
+.cursor/
+.DS_Store
+*.swp
+
+# Local checkpoints, experiments, and dev-only files
+archive/
+
+# Runtime outputs (generated locally; may require sudo to relocate)
+outputs/
+ckpt/

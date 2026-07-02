@@ -18,6 +18,6 @@ transformers==5.0.0rc3
 point-cloud-utils==0.34.0
 
 # gradio_app.py
-gradio==6.6.0
+gradio==6.15.0
 huggingface_hub>=0.26.0
 plotly==6.5.2

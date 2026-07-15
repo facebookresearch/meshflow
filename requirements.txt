@@ -1,7 +1,7 @@
 # PyTorch CUDA 12.8 wheels (change index-url for your CUDA/PyTorch build)
 --extra-index-url https://download.pytorch.org/whl/cu128
 
-torch==2.8.0
+torch==2.12.1
 torchvision==0.22.1
 
 # Core inference
